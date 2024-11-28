@@ -10,6 +10,7 @@ git clone https://github.com/An-P-Pham/plot_cpp_algorithm.git
 
 # Build the docker image
 ```console
+cd plot_cpp_algorithm
 sudo docker build -t plot_cpp_algorithm .
 ```
 
